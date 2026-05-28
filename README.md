@@ -6,8 +6,11 @@ I am a physics student and developer building tools to help students achieve the
 ---
 
 ## 📢 Latest Job & Career Updates
-* **[2026-05-28]** Added new entry-level job opportunities for STEM graduates.
-* **[2026-05-25]** Updated regional scholarship guidelines for international students.
+* **[2026-05-28]** [Physics Research Internship - Teesta (Kolkata)](https://in.indeed.com/q-physics-research-internship-jobs.html): Build and improve strategy code and core research infrastructure using Python and C++.
+* **[2026-05-28]** [AR/VR Developer Intern - MEL Systems & Services (Chennai)](https://in.indeed.com/q-melss-l-chennai,-tamil-nadu-jobs.html): Assist in developing immersive simulation and visualization solutions using AR/VR technologies.
+* **[2026-05-28]** [Subject Matter Expert Physics Intern - SciAstra (Noida)](https://www.sciastra.com/events/sciastra-diwas/faqs): Create high-quality academic questions and mock tests aligned with competitive exam preparation.
+* **[2026-05-28]** [Robotics Software Intern - UnboxRobotics Labs (Pune)](https://in.indeed.com/q-unbox-robotics-jobs.html): Collaborate with the team to design, develop, and debug software systems for autonomous mobile robots.
+* 
 
 ---
 
